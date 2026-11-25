@@ -1,0 +1,16 @@
+TITLE: DSU MCA Scheme and Courses (2021-22 scheme)
+SOURCE: https://mail.dsu.edu.in/images/CA/handbook/MCA_Handbook.pdf
+
+First semester (22 credits). Data Structures (3 credits), Computer Architecture and Microcontroller (4), Advanced Operating Systems (3), Advanced Software Engineering and Testing (4), Probability and Statistics (4), Data Structures Lab (2) and Advanced Operating Systems Lab (2).
+
+Second semester (24 credits). Advanced Algorithms (3), Java Programming (3), Computer Communication and Networks (3), Database Management Systems (3), Advanced Algorithms Lab (2), Java Programming and Networks Lab (2), DBMS Lab (2), Summer Internship (2) and Department Elective I (4). Elective I options are Data Analytics and Visualization, Virtualization and Cloud Computing, and Full Stack Development.
+
+Third semester (22 credits). AI and Machine Learning (3), Embedded Systems and Internet of Things (3), Department Elective 2 (4), Department Elective 3 (4), AI and Machine Learning Lab using Python (2), Embedded and IoT Laboratory (2) and Socially Relevant Project (4).
+
+Electives II and III options. Distributed Computing (Hadoop and Scala), Data Mining, Business Intelligence Technology, Big Data with R, Data Science, Cloud Networking and Security, Cloud Storage, and Mobile Application Development Techniques.
+
+Fourth semester (17 credits). Department Elective 4 (4), two Open Electives (MOOC) of 4 credits each, and the Dissertation (5 credits). Elective IV options are Information Security, Introduction to Social Network Analysis, Deep Learning and Block Chain Technology. Open elective options include Business Data Analytics, Industrial Safety, Operations Research, Cost Management of Engineering Projects, Composite Materials and Waste to Energy.
+
+Course notes. The Full Stack Development course covers object-oriented Python, user interfaces with wxPython, Git, the Flask framework, MongoDB and deployment. The AI and Machine Learning lab includes decision trees, spam detection with SVM, neural networks, Bayesian networks and a team mini-project on a socially relevant problem.
+
+Note. This is the 2021-22 scheme. Later batches may have a revised scheme, so check your own department's current syllabus.

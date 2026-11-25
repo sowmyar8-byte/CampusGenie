@@ -1,0 +1,24 @@
+SAMPLE DOCUMENT (fictional, for demonstration only; not official university policy)
+
+ASSIGNMENT AND PROJECT GUIDELINES
+
+1. Submission method
+All assignments must be uploaded to the learning management system (LMS) before the deadline set by the course faculty. Assignments sent by email or messaging apps will not be accepted unless the faculty has given written permission.
+
+2. File format and naming
+Assignments must be submitted as a single PDF file. The file name must follow the pattern RollNumber_CourseCode_AssignmentNumber, for example SCA25MCA137_MCA301_A2.pdf.
+
+3. Late submission
+A late submission loses 10% of the assigned marks for every day of delay, for a maximum of 3 days. After 3 days, the assignment is not accepted unless the Head of Department approves an exception for a genuine reason.
+
+4. Plagiarism
+All submitted work is checked for similarity. A similarity score above 25% will result in the assignment being returned for resubmission with a penalty. Copying from another student, or from the internet without citation, is academic misconduct and may result in zero marks and a report to the department.
+
+5. Use of AI tools
+Students may use AI tools to understand concepts or improve language, but must declare any such use in a short note at the end of the assignment. Submitting AI-generated content as one's own work without declaration is considered academic misconduct.
+
+6. Mini project
+In the third semester, the mini project may be done individually or in a group of up to 3 students. A project guide is allotted by the end of the second week of the semester. The project is evaluated through a report in the prescribed format, a demonstration and a viva voce.
+
+7. Project report
+The report must include an introduction, problem statement, objectives, methodology, system design, testing results, limitations and references. Results must come from actual testing and must not be assumed.
