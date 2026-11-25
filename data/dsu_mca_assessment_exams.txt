@@ -5,9 +5,18 @@ Assessment structure. Every course is assessed through Continuous Internal Asses
 
 CIA components. CIA can include tests, mid-term exams, quizzes, term papers, simulation-based problem solving, open-book tests, mini-projects, seminars, viva-voce and marks for attendance. The course instructor announces the components and their weightage at the start of the semester. A student must take part in all CIA components to be eligible for the SEE, otherwise an NE grade is given. CIA marks cannot be improved, but a student may withdraw and re-register for the course.
 
-Passing a course. A student passes a course by scoring at least 40% when CIA and SEE marks are combined.
+Passing a course. The minimum pass mark for a course is 40%, counted on the combined CIA and SEE marks (grade P starts at 40 marks).
 
-Grades. O means 90 to 100 marks (10 points, Outstanding). A+ is 80 to 89 (9 points). A is 70 to 79 (8 points). B+ is 60 to 69 (7 points). B is 55 to 59 (6 points). C is 50 to 54 (5 points). P is 40 to 49 (4 points, Pass). F is below 40 (0 points, Fail). Other grades are AP (audit pass), AF (audit fail), IC (incomplete), NE (not eligible) and W (withdrawn).
+Grades and marks (each grade with its marks range):
+- 90 to 100 marks: grade O (Outstanding), 10 grade points.
+- 80 to 89 marks: grade A+, 9 grade points.
+- 70 to 79 marks: grade A, 8 grade points.
+- 60 to 69 marks: grade B+, 7 grade points.
+- 55 to 59 marks: grade B, 6 grade points.
+- 50 to 54 marks: grade C, 5 grade points.
+- 40 to 49 marks: grade P (Pass), 4 grade points.
+- Below 40 marks: grade F (Fail), 0 grade points.
+Other grades: AP means audit pass, AF means audit fail, IC means incomplete, NE means Not Eligible (attendance or CIA requirement not met), and W means withdrawn from the course.
 
 CGPA and percentage. A student needs a minimum CGPA of 4 to be eligible for the degree. CGPA is converted to a percentage as (CGPA minus 0.75) multiplied by 10. SGPA is the grade point average for one semester and CGPA covers all completed semesters. Audit courses are not counted.
 

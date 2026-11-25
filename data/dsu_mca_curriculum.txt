@@ -9,7 +9,7 @@ Third semester (22 credits). AI and Machine Learning (3), Embedded Systems and I
 
 Electives II and III options. Distributed Computing (Hadoop and Scala), Data Mining, Business Intelligence Technology, Big Data with R, Data Science, Cloud Networking and Security, Cloud Storage, and Mobile Application Development Techniques.
 
-Fourth semester (17 credits). Department Elective 4 (4), two Open Electives (MOOC) of 4 credits each, and the Dissertation (5 credits). Elective IV options are Information Security, Introduction to Social Network Analysis, Deep Learning and Block Chain Technology. Open elective options include Business Data Analytics, Industrial Safety, Operations Research, Cost Management of Engineering Projects, Composite Materials and Waste to Energy.
+Fourth semester (17 credits). Department Elective 4 (4), two Open Electives (MOOC) of 4 credits each, and the Dissertation (5 credits, which is a project and not an elective). There are four Elective IV options: (1) Information Security, (2) Introduction to Social Network Analysis, (3) Deep Learning, and (4) Block Chain Technology. Open elective options include Business Data Analytics, Industrial Safety, Operations Research, Cost Management of Engineering Projects, Composite Materials and Waste to Energy.
 
 Course notes. The Full Stack Development course covers object-oriented Python, user interfaces with wxPython, Git, the Flask framework, MongoDB and deployment. The AI and Machine Learning lab includes decision trees, spam detection with SVM, neural networks, Bayesian networks and a team mini-project on a socially relevant problem.
 

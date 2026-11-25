@@ -1,0 +1,122 @@
+question,should_answer,abstained,fallback_correct,top_source,source_correct,latency_s,answer,relevance_1to5,factual_consistency_1to5,completeness_1to5
+What attendance percentage do I need to write the end semester exam?,True,False,True,dsu_mca_attendance_rules.txt,True,63.54,"To write the end semester exam, you need to have an attendance of at least **85%**. 
+
+- This includes all classes, such as lectures, tutorials, practicals, and workshop sessions.
+- If your attendance falls below 85%, you will be given an NE (Not Eligible) grade for that course.",,,
+What is an NE grade?,True,False,True,dsu_mca_attendance_rules.txt,True,5.86,"An NE (Not Earning) grade is a mark given to a student when they fail to meet the attendance requirement for a course. 
+
+- The student must register for the course again when it is next offered and meet the attendance requirement to pass it.
+- If the NE course is a prerequisite for a course in a later semester, the student cannot register for that connected course until the prerequisite is passed.
+- NE courses can be cleared in the summer term by paying the prescribed fee.",,,
+Can shortage of attendance be condoned and who approves it?,True,False,True,dsu_mca_attendance_rules.txt,True,5.24,"A student's attendance shortage of up to **10%** can be condoned by the Vice-Chancellor, but only on the specific recommendation of the department Chairman and the Dean, and only for a reasonable cause.
+
+- The approved reasons for condonation include medical emergencies, representing the university in sports or cultural activities, and presenting a paper at a national or international conference.
+- The student must apply in advance to the Chairman of the department for short leave (less than two weeks) or to the Dean for long leave (more than two weeks).
+- The student is responsible for informing the concerned course instructors about the absence before taking leave.
+- The student must register for the course again when it is next offered, meet the attendance requirement, and pass it to clear the NE grade.",,,
+Which reasons are accepted for condonation of attendance?,True,False,True,dsu_mca_attendance_rules.txt,True,4.18,"The accepted reasons for condonation of attendance are:
+- A medical emergency or illness needing rest, certified by a Government doctor only, or a death of a close family member.
+- Representing the university in sports, cultural, extra-curricular or co-curricular activities.
+- Presenting a paper at a national or international conference, or attending a recognised workshop or seminar.
+
+- **Note:** These rules are from the MCA governing regulations 2021, and other DSU programmes may differ.",,,
+I need leave for more than two weeks. What should I do?,True,False,True,dsu_mca_attendance_rules.txt,True,3.76,"To take a long leave of more than two weeks, you should apply in advance through the Chairman to the Dean with supporting documents. The Dean will decide on the Chairman's recommendation. 
+
+- Apply at least 6 weeks before the semester start.
+- Give full reasons and supporting documents.
+- The Dean may allow the leave, but the attendance and condonation rules still apply.",,,
+What is the weightage of internal assessment and semester end exam?,True,False,True,dsu_mca_assessment_exams.txt,True,3.71,"The weightage of internal assessment (CIA) and semester end examination (SEE) is **60%** for CIA and **40%** for SEE respectively. 
+
+- CIA and SEE carry a total weightage of 100% in the assessment structure.
+- The Vice-Chancellor can approve a different ratio in exceptional cases.",,,
+What is the minimum percentage to pass a course?,True,False,True,dsu_mca_assessment_exams.txt,True,3.04,The minimum percentage to pass a course is **50%**. This is the minimum aggregate marks required for a candidate to be eligible for the degree.,,,
+How do I convert CGPA to percentage?,True,False,True,dsu_mca_assessment_exams.txt,True,3.53,"To convert CGPA to percentage, multiply the CGPA minus 0.75 by 10. 
+
+- For example, if your CGPA is 4.5, you would calculate (4.5 - 0.75) x 10 = 3.75 x 10 = 37.5%.",,,
+What grade do I get for 85 marks?,True,False,True,dsu_mca_assessment_exams.txt,True,3.33,"You get a grade of B+ for 85 marks. 
+
+- The grade B+ corresponds to 60 to 69 marks (7 points).
+- The marks 85 fall within this range.",,,
+What is the minimum CGPA needed for the degree?,True,False,True,dsu_mca_assessment_exams.txt,True,3.62,"A minimum CGPA of **4** is required to be eligible for the degree. 
+- The CGPA is calculated by converting it to a percentage as (CGPA minus 0.75) multiplied by 10.
+- A student needs to complete all credit requirements with this CGPA to get the MCA degree.",,,
+I got an F grade. What do I do?,True,False,True,dsu_mca_assessment_exams.txt,True,4.6,"To repeat a course with an F grade, a student must re-take the course in the next available semester, following the rules for odd-semester courses in odd semesters and even-semester courses in even semesters. 
+
+- The student must register for the course again in the next semester.
+- The course can be taken in the summer term if the student has an NE or F grade, but this is subject to the student meeting the prescribed fee per credit for the summer term.
+- The student must score at least 40% when CIA and SEE marks are combined to pass the course.",,,
+Can I get a make-up exam if I miss the exam due to illness?,True,False,True,dsu_mca_assessment_exams.txt,True,4.15,"Yes, you can get a make-up exam if you miss the exam due to illness. 
+- You must request a make-up exam at the earliest and not later than the last day of the SEE.
+- You need permission from the Faculty Advisor and the Chairperson or Dean.
+- You must provide a medical certificate or proof of the illness.",,,
+Until when can I drop a course?,True,False,True,dsu_mca_registration_progression.txt,True,3.1,"You can drop a course within **4 weeks** after the semester starts, with permission of the Faculty Advisor and the Chairperson or Dean.",,,
+What does the W grade mean?,True,False,True,dsu_mca_assessment_exams.txt,False,4.22,"The W grade means a student can withdraw from a course up to **4** weeks before the start of the semester end examinations, with the same permissions, and a W grade is given, and the student must register for the course again when it is offered and pass it.
+
+- The W grade is given when a student withdraws from a course within the allowed timeframe.
+- The student must re-register for the course and pass it to be eligible for the degree.",,,
+When does the odd semester run?,True,False,True,dsu_mca_registration_progression.txt,True,3.81,"The odd semester runs from **September to January**. Each semester is about **16 weeks long**. 
+
+- The exact dates of registration, internal assessment, exams, and vacations are given in the Academic Calendar for the session.
+- Students register for approved courses through their Faculty Advisor at the end of the previous semester or in the first week of the current semester.",,,
+What happens if I fail a course four times?,True,False,True,dsu_mca_registration_progression.txt,True,4.44,"If you fail a course four times, you can be terminated as Not Fit For The Programme. You may appeal to the Vice-Chancellor through the Dean, who may allow 2 additional attempts after a committee review.
+
+- The student must have already failed the course four times before the appeal can be made.
+- The appeal must be made to the Vice-Chancellor through the Dean.
+- The Dean may allow 2 additional attempts after a committee review.
+- The student must still meet the degree eligibility criteria to get the MCA degree.",,,
+Are mobile phones allowed in the exam hall?,True,False,True,dsu_code_of_conduct.txt,True,3.03,Mobile phones are strictly prohibited inside the examination hall. They can be confiscated and the student punished as per university rules.,,,
+What happens if I do not pay my fees on time?,True,False,True,dsu_code_of_conduct.txt,True,4.41,"If you do not pay your fees on time, you may not be allowed to register for courses, stay in the hostel, attend classes or write examinations. This is as per the DSU Department of Computer Applications Code of Conduct. 
+
+- You must pay tuition, hostel, bus and mess fees on time as stipulated by the university.
+- If fees are not paid, the student may not be allowed to register for courses, stay in the hostel, attend classes or write examinations.",,,
+What is the anti ragging helpline number?,True,False,True,dsu_code_of_conduct.txt,True,3.8,"The anti-ragging helpline number is **1800-180-5522**.
+
+- This number is available for students to report any instances of ragging or harassment.
+- The National Anti Ragging Helpline is a government-authorized service that provides support and assistance to students who have been affected by ragging.",,,
+What is the eligibility for MCA admission?,True,False,True,dsu_mca_admission_eligibility.txt,True,5.3,"A candidate who has passed a recognised undergraduate degree with Mathematics, Statistics, Computer Science, Computer Applications, Computer Programming, Business Mathematics or Business Statistics as one of the optional subjects, with at least **50%** aggregate marks, is eligible for MCA admission. 
+
+- The minimum eligibility is **45%** for SC, ST and Category-I candidates of Karnataka.
+- A candidate who studied and passed one of those subjects in pre-university with **50%** (45% for the same categories) can also be considered.
+- The brochure accepts any UG degree such as B.E, B.Tech, B.Sc, B.Com, B.A, B.Voc or BCA with Mathematics at 10+2 or graduation level, with **50%** marks (45% for SC/ST).",,,
+Who is eligible for lateral entry into MCA?,True,False,True,dsu_mca_admission_eligibility.txt,True,4.58,"A candidate with a recognised bachelor's degree of at least **3 years** in BCA or B.Sc (IT or Computer Science), with Mathematics at 10+2 or degree level and at least 50% aggregate marks (45% for SC, ST and Category-I of Karnataka), is eligible for lateral entry into MCA.
+
+- The degree should be from a recognised university.
+- Mathematics at 10+2 or degree level is mandatory.
+- The candidate must have passed the degree with at least 50% aggregate marks (45% for SC, ST and Category-I of Karnataka).",,,
+Which subjects are in the third semester of MCA?,True,False,True,dsu_mca_curriculum.txt,True,4.26,"The subjects in the third semester of MCA are:
+- AI and Machine Learning (3 credits)
+- Embedded Systems and Internet of Things (3 credits)
+- Department Elective 2 (4 credits)
+- Department Elective 3 (4 credits)
+- AI and Machine Learning Lab using Python (2 credits)
+- Embedded and IoT Laboratory (2 credits)
+- Socially Relevant Project (4 credits)
+
+These subjects are part of the **22 credits** offered in the third semester.",,,
+What are the elective options in the fourth semester?,True,False,True,dsu_mca_curriculum.txt,True,3.18,"The elective options in the fourth semester are: 
+- Information Security 
+- Introduction to Social Network Analysis 
+- Deep Learning and Block Chain Technology.",,,
+How many credits is the dissertation?,True,False,True,dsu_mca_registration_progression.txt,False,3.81,"The dissertation is worth **5 credits**. 
+
+- The dissertation is a 5-credit course in the fourth semester.
+- It is one of the two open electives in the fourth semester, along with two 4-credit open electives.
+- The total credits for the fourth semester are 17.",,,
+How many students can the library seat at a time?,True,False,True,dsu_library_and_contacts.txt,True,3.4,"The DSU library can seat **560** students at a time. It is open to undergraduate and postgraduate students, research scholars and faculty, and holds a large collection of books, CDs, DVDs, and online resources.",,,
+What is the Registrar office phone number?,True,False,True,dsu_library_and_contacts.txt,True,3.64,"The Registrar office phone number is **080 4909 2910** or **080 4909 2911**. 
+
+- The office can be contacted for general inquiries and information.
+- The phone numbers may be subject to change, as noted in the university's contact details.",,,
+Where is the DSU main campus?,True,False,True,dsu_library_and_contacts.txt,True,4.47,"The DSU main campus is located at Devarakaggalahalli, Harohalli, Kanakapura Road, Bengaluru South District, **562112**.
+
+- The main campus is open to undergraduate and postgraduate students, research scholars and faculty.
+- The DSU library can seat 560 students at a time and holds a large collection of books, CDs, DVDs, and online resources.
+- The university's administrative and main admission office is at Kudlu Gate, Hosur Road, Bengaluru, 560114.",,,
+What is the hostel curfew time?,False,False,False,dsu_code_of_conduct.txt,,3.83,"The hostel curfew time is not specified in the passages provided. 
+
+- The passages do not mention hostel curfew times.
+- However, the passages do mention that students must pay tuition, hostel, bus, and mess fees on time, and that failure to do so may result in penalties, including not being allowed to register for courses or stay in the hostel.",,,
+What is the yearly MCA tuition fee?,False,True,True,,,3.14,I can't confirm this from the university documents I have. Please contact the relevant university office or check the official notice.,,,
+What is the average placement package?,False,True,True,,,3.26,I can't confirm this from the university documents I have. Please contact the relevant university office or check the official notice.,,,
+What is the campus Wi-Fi password?,False,True,True,,,3.16,I can't confirm this from the university documents I have. Please contact the relevant university office or check the official notice.,,,
+Who won the cricket world cup?,False,True,True,,,16.26,I can't confirm this from the university documents I have. Please contact the relevant university office or check the official notice.,,,

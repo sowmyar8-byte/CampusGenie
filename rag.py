@@ -32,6 +32,7 @@ SYSTEM_PROMPT = (
     "details. Use plain, simple language. Use a short bullet list (lines starting with '- ') "
     "when there are several items or steps. Bold only key numbers or terms with **double asterisks**. "
     "Do NOT mention passage numbers, file names, page numbers or phrases like 'according to the context'. "
+    "Use ONLY facts written in the passages: do not add examples, background or extra explanations, and do not mix facts from different rules. For grades, marks or numbers, read the value directly from the passage line. "
     "Keep it under 120 words. If the passages mention a caveat (for example rules differ by programme "
     "or year), include it in one short closing sentence."
 )
@@ -213,9 +214,19 @@ def make_sources(passages):
     return out
 
 
+# Phrases and patterns that mean "the documents do not contain the answer".
+REFUSAL_RE = re.compile(
+    r"(can'?t|cannot|unable to|couldn'?t)\s+(confirm|find|answer|determine)"
+    r"|\b(not|no|n't|isn't|aren't)\b.{0,35}\b(mention|specif|stated?|provid|contain|includ|availab|list|found|cover|say)"
+    r"|\bno (information|mention|details?)\b"
+    r"|don'?t have (any )?(information|details)", re.I)
+
+
 def _abstained(text):
-    t = text.lower()
-    return "can't confirm" in t or "cannot confirm" in t
+    """True if the model declined to answer. Only the FIRST sentence is checked,
+    so a valid answer that says 'not specified' later on is not mistaken for a refusal."""
+    first = re.split(r"(?<=[.!?])\s", text.strip(), maxsplit=1)[0]
+    return bool(REFUSAL_RE.search(first))
 
 
 def stream_answer(question, history=None):
